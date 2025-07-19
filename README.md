@@ -49,4 +49,4 @@ SHA256	admin	8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
 Suvhankar Dutta
 Cybersecurity Enthusiast | Python Developer | GUI Innovator
 📧 duttasuvhankar@gmail.com
-🔗 LinkedIn : Suvhankar Dutta
+🔗 LinkedIn : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
